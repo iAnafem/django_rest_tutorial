@@ -1,0 +1,10 @@
+*.pyc
+*~
+__pycache__
+myvenv
+venv
+.idea
+*.xml
+db.sqlite3
+initial
+media
